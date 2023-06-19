@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "Philosophy"
+imageSrc: "../../images/scott-st-johns.jpg"
+imageAlt: "St Johns Bridge"
 ---
 
 Front-End Developer with code to customer design system expertise. Naturally curious with a proven ability to find and drive solutions. Strong communication skills with experience working cross-functionally to develop content for technical and non-technical audiences. Passionate about efficient, reusable solutions and building for accessibility. Experience with Fortune 500 companies
