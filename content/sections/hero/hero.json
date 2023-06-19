@@ -16,7 +16,7 @@
   },
   "description": "I'm here to spread the gospel of Papyrus and Comic Sans.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["Mail", "LinkedIn", "Github"],
     "showIcons": false
   }
 }
