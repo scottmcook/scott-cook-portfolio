@@ -7,6 +7,7 @@ import {
   Page,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
+import "@fontsource-variable/open-sans";
 
 export default function IndexPage() {
   return (
