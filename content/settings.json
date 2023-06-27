@@ -19,9 +19,7 @@
     "logo": { "text": "RunninCode" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Philosophy", "url": "/#philosophy" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
