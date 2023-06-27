@@ -20,7 +20,7 @@
     "navigation": {
       "header": [
         { "label": "Philosophy", "url": "/#philosophy" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
