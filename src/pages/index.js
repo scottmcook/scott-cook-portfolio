@@ -5,7 +5,6 @@ import {
   HeroSection,
   InterestsSection,
   Page,
-  ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
@@ -17,7 +16,6 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="Philosophy" />
         <InterestsSection sectionId="skills" heading="Skills" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
         <ContactSection sectionId="github" heading="Contact" />
       </Page>
     </>
