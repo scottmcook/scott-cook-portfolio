@@ -20,7 +20,7 @@
 	max-width: 8.75rem;
 	border-radius: 50%;
 	margin-right: 4rem;
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 }
 
 .Contact .Profile .ContactDetails {
@@ -36,7 +36,7 @@
 	.Contact .Profile {
 			flex-direction: row;
 			align-items: start;
-			margin-bottom: 3rem;
+			margin-bottom: 1rem;
 	}
 	.Contact .Profile .Avatar {
 			margin-bottom: 0;
