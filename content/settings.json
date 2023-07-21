@@ -20,6 +20,7 @@
     "navigation": {
       "header": [
         { "label": "Philosophy", "url": "/#philosophy" },
+        { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
