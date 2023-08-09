@@ -8,9 +8,9 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Scott Cook",
+  "title": "I'm Scott Cook",
   "subtitle": {
-    "prefix": "I'm a Front-end ",
+    "prefix": "Front-end ",
     "highlight": "Web Developer",
     "suffix": "."
   },
