@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "RunninCode" },
+    "logo": {  "imageDark": "./images/logo_transparent.png" },
     "navigation": {
       "header": [
         { "label": "Philosophy", "url": "/#philosophy" },
