@@ -3,9 +3,8 @@ imageSrc: "../../images/scott-st-johns.jpg"
 imageAlt: "St Johns Bridge"
 ---
 
-Front-End Developer with code to customer design system expertise. Naturally curious with a proven ability to find and drive solutions. Strong communication skills with experience working cross-functionally to develop content for technical and non-technical audiences. Passionate about efficient, reusable solutions and building for accessibility. Experience with Fortune 500 companies
-across e-commerce, healthcare, and event industries.
+Hey there! Thanks for stopping by my website. When I'm not deep into programming (and trust me, I never write bugs 😉), you'll find me with my Australian Cattle dogs, Jinny and Moody. Yes, they're named after Harry Potter characters!
 
-When I'm not programming I'm running and entertaining my Australian Cattle dogs Jinny and Moody.
+In my free time, I'm a lead guitarist in a band called Squatchula, where we cover anything from Creedance Clearwater Revival, to Green Day, Eminem, The Strokes, and whatever we're in the mood for. Early 2000's pop-punk will always have a special place in my heart.
 
-I live in Portland, Oregon and love bridges. Look! Here's one now.
+I call the beautiful city of Portland, Oregon, my home, and I'm priveleged enough to live near the best bridge in the city, can you guess which one?
