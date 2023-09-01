@@ -16,7 +16,7 @@ export default function IndexPage() {
       <Seo title="RunninCode" />
       <Page>
         <HeroSection sectionId="hero" />
-        <AboutSection sectionId="philosophy" heading="Philosophy" />
+        <AboutSection sectionId="aboutme" heading="Philosophy" />
         <InterestsSection sectionId="skills" heading="Skills" />
         <ProjectsSection sectionId="projects" heading="Projects" />
         <ContactSection sectionId="contact" heading="Contact" />
