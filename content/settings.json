@@ -19,7 +19,7 @@
     "logo": {  "imageDark": "./images/logo_transparent.png" },
     "navigation": {
       "header": [
-        { "label": "Philosophy", "url": "/#philosophy" },
+        { "label": "About Me", "url": "/#aboutme" },
         { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#contact" }
       ],
