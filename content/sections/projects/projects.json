@@ -2,6 +2,28 @@
   "projects": [
     {
       "visible": true,
+      "category": "🛠️ API, React, Vercel, Tailwind",
+      "title": "Flag Filter Fun",
+      "description": "REST Countries API with filter, search, and color theme switcher.",
+      "tags": ["Projects"],
+      "image": {
+        "src": "../../images/projects/flag-filter-fun.png",
+        "alt": "Flag filter fun screenshot",
+        "linkTo": "https://github.com/scottmcook/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/scottmcook/"
+        },
+        {
+          "type": "external",
+          "url": "https://flag-filter-nh2l19qd6-scottmcook.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🛠️ API, React, Netlify, Material UI",
       "title": "Super Movie Finder",
       "description": "A simple search app that searches movie database API TMDB and brings up results.",
